@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "price": 7479,
+      "title": "Bradshaw MK5976",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(1/a/e/3/1ae3a6e8b48057183eda77e3766d59f8dfd55a3e_4053858267954,webp)/michael-kors-godinnik-bradshaw-mk5976-zolotii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 1,
+      "price": 12874,
+      "title": "Gage MK8826",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(6/5/d/4/65d41606ee0137346766bf59cbbb808e9681b103_01_4048803210765_pl.jpg,webp)/michael-kors-godinnik-gage-mk8826-sribnii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 2,
+      "price": 9809,
+      "title": "Tradizione R8853146002",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(d/e/c/d/decd01cac10a891bd8450eab66eb700bbae67990_01_8033288966302_az.jpg,webp)/maserati-godinnik-tradizione-r8853146002-sribnii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "price": 8289,
+      "title": "Successo R8853121008",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(7/f/7/4/7f7443745cb417c4568bcd777eaeeef55dea5c0a_01_8033288983729_AZ.jpg,webp)/maserati-godinnik-successo-r8853121008-chornii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 4,
+      "price": 7409,
+      "title": "Epoca R8851118016",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(6/6/6/a/666aed0f1e335a50f38e88d703d0e4fcfcbf77e2_01_8033288983774_AZ.jpg,webp)/maserati-godinnik-epoca-r8851118016-korichnevii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 5,
+      "price": 12874,
+      "title": "Gage MK8827",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(0/e/3/3/0e339ddace439d0b87de7f29083e6ae5bd19e485_01_4048803210772_pl.jpg,webp)/michael-kors-godinnik-gage-mk8827-zolotii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 6,
+      "price": 14856,
+      "title": "Darci MK4592",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(b/a/6/c/ba6cbcd92e53612953d5270f3afa3f00410359e2_01_4064092036213_pl.jpg,webp)/michael-kors-godinnik-darci-mk4592-rozheve-zoloto.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 7,
+      "price": 5649,
+      "title": "Ladycroc 2001191",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(b/1/f/5/b1f538701b2e39a3ce12517bcd2d235752da887a_01_7613272439077_fp.jpg,webp)/lacoste-godinnik-ladycroc-2001191-rozheve-zoloto.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 8,
+      "price": 12874,
+      "title": "Queen GW0464L2",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(b/d/4/a/bd4a89e9c480f5aa207175f8bb22694b18c3f1c0_01_0091661529016_mt.jpg,webp)/guess-godinnik-queen-gw0464l2-zolotii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    },
+    {
+      "id": 9,
+      "price": 5559,
+      "title": "MK 7298 ",
+      "imageUrl": "https://img.modivo.cloud/zoomapp(f/4/a/5/f4a51e373a9957157b3a8b06d66657343d922b74_01_4064092158908_az,webp)/michael-kors-godinnik-mk7298-sribnii.webp",
+      "isAdded": true,
+      "isFavorite": true
+    }
+  ]
+}
